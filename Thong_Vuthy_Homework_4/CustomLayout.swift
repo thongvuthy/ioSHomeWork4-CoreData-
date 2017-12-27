@@ -13,11 +13,6 @@ class CustomLayout: UICollectionViewFlowLayout {
     let numberOfCellsOnRow: CGFloat = 2
     
     
-    
-    
-    
-    
-    
     override init() {
         super.init()
         self.minimumLineSpacing = innerSpace
